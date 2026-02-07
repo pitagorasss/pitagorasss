@@ -9,7 +9,7 @@
 
 </br>
 <h2 align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,oracledatabase,docker,vscode,django,flask,fastapi,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,docker,vscode,django,flask,fastapi,git,github"/>
 </h2>
 </div>
 
