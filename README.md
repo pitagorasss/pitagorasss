@@ -13,7 +13,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,docker,vscode,django,flask,fastapi,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,oracle,docker,vscode,django,flask,fastapi,git,github" />
 </div>
 
 <div align="center">
