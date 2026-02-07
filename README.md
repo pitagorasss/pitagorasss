@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0071fc&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=03b6fc&center=true&vCenter=true&width=900&lines=Ivson;Desenvolvedor+Python;Automações+%7C+Dados+%7C+APIs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=03b6fc&center=true&vCenter=true&width=900&lines=Ivson;Cientista+de+Dados;Implementação+%7C+Estratégia de Dados+%7C+APIs"/>
 </h1>
 
 <h3>
-  Sou um desenvolvedor em início de carreira com sólidos conhecimentos em Python, MySQL, Django, Flask, FastAPI e experiência em desenvolvimento web, desenvolvimento de automações e APIs.</h3>
+  Sou um cientista de dados início de carreira com sólidos conhecimentos em Python, MySQL, Django, Flask, FastAPI e experiência em análise de dados, implementação e gestão de bancos de dados e </h3>
 
 </br>
 <h2 align="center">
