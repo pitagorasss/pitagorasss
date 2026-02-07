@@ -9,7 +9,7 @@
 
 </br>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=03b6fc&center=true&vCenter=true&width=900&lines=Ferramentas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=03b6fc&center=true&vCenter=true&width=900&lines=Ferramentas;Frameworks"/>
 </h2>
 
 <div align="center">
