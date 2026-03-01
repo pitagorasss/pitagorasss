@@ -5,7 +5,7 @@
 </h1>
 
 <h3>
-  Sou um cientista de dados início de carreira com sólidos conhecimentos em Python, MySQL, Django, Flask, FastAPI e experiência em análise de dados, implementação e gestão de bancos de dados e desenvolvimento de soluções. </h3>
+  Sou um cientista de dados em início de carreira com sólidos conhecimentos em Python, MySQL, Django, Flask, FastAPI e experiência em análise de dados, implementação e gestão de bancos de dados e desenvolvimento de soluções. </h3>
 
 </br>
 <h2 align="center">
