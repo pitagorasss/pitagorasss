@@ -5,7 +5,10 @@
 </h1>
 
 <h3>
-  Sou um cientista de dados em início de carreira com sólidos conhecimentos em Python, MySQL, Django, Flask, FastAPI e experiência em análise de dados, implementação e gestão de bancos de dados e desenvolvimento de soluções. </h3>
+  Sou fascinado por tecnologia e autodidata, sempre aprendendo e melhorando algo, pois sempre há algo a aprimorar. Atualmente estou em busca de um trabalho como Analista de Dados para comunicar através dos dados, possibilitar a formulação de estratégias e tomadas de decisão baseadas em dados, e resolver problemas.
+
+Sou profissional em Ciência de Dados e bacharelando em Matemática com sólida experiência em Python, SQL e Banco de Dados.
+ </h3>
 
 </br>
 <h2 align="center">
