@@ -5,7 +5,7 @@
 </h1>
 
 <h3>
-Sou fascinado por tecnologia e autodidata, sempre aprendendo e melhorando algo, pois sempre há algo a aprimorar. Atualmente estou em busca de um trabalho como Analista de Dados para comunicar através dos dados, possibilitar a formulação de estratégias e tomadas de decisão baseadas em dados, e resolver problemas.
+Sou fascinado por tecnologia e autodidata, sempre aprendendo e melhorando algo, pois sempre há algo a aprimorar.
 </h3>
 
 </br>
